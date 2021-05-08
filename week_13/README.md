@@ -34,10 +34,18 @@ we get different algorithms.
 | Algorithm | Data Structure | Run Time |
 | --------- | -------------- | -------- |
 | Depth First Search (DFS) | Stack (list/deque) | O(V + E) |
-| Breath First Search (BFS) | Queue (deque) | O(V + E) |
+| Breadth First Search (BFS) | Queue (deque) | O(V + E) |
 | Dijkstra's Algorithm (shortest path) | Priority Queue (heap) | O( (V + E) log V) |
 
 Textbook reference: [chapter 8](https://runestone.academy/runestone/books/published/pythonds/Graphs/toctree.html)
+
+Applications of Dijkstra's algorithm:
+1. [Google Maps](https://www.google.com/maps/@39.0188644,125.7397457,13555m/data=!3m1!1e3?hl=en)
+1. videogame pathfinding
+1. [Internet routing](https://en.wikipedia.org/wiki/Open_Shortest_Path_First)
+1. Expedia.com
+1. [6 Degrees of Kevin Bacon](https://blogs.ams.org/mathgradblog/2013/11/22/degrees-kevin-bacon/)
+1. [Catching criminals](https://www.researchgate.net/profile/Joseph-Olusina-2/publication/335387366_Journey_to_Crime_Using_Dijkstra%27s_Algorithm/links/5f045b90a6fdcc4ca452fdeb/Journey-to-Crime-Using-Dijkstras-Algorithm.pdf)
 
 ## Homework
 
